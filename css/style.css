@@ -1441,13 +1441,7 @@ html, body {
         font-size: 16px;
     }
 }
-<<<<<<< HEAD
->>>>>>> 3c3b174 (houses page add)
 
-
-
-
-=======
 
 @media (max-width: 600px) {
     .house_card img {
@@ -1486,4 +1480,5 @@ html, body {
         gap: 15px;
     }
 }
->>>>>>> beb403b (try to fix houses mobile version)
+
+
